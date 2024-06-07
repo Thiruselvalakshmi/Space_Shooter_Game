@@ -1,3 +1,10 @@
+'''
+Space shooter game where the player is provided a shooter using which only one bullet can be fired at a time.
+Eight enemies will be falling downwards and when each enemy is killed the player is given a point in his score.
+After a enemy dies it gets vanished from that position and locate at another position.
+So a total of eight enemies will always be present in the game.
+Game Ends when any of the enemy touches the bottom of the player side.'''
+
 import turtle
 import random
 
